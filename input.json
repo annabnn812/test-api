@@ -1,0 +1,22 @@
+ {
+    "id" : 123,
+    "name" : "Elsa",
+    "username" : "iugkio18",
+    "email" : "elsa@gmail.com",
+    "age" : 21,
+    "power" : "ice ray",
+    "friends" : [{
+       "id" : 234,
+        "username" : "Magic213"
+    },{
+        "id" : 456,
+        "username" : "call_me_anna"
+    },{
+        "id" : 222,
+         "username" : "Trololo"
+     },{
+         "id" : 8846,
+         "username" : "Just_Alice"
+     }
+]
+}
